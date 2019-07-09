@@ -31,7 +31,7 @@ Using MATLAB navigate to the folder `RODAdemo` and run the command `main_gui` in
 
 ### Hands-on exercise 2
 
-Using MATLAB navigate to the folder `ClusterGUIdemo` and run the command `clustering_gui` in the Command Window. For the users without MATLAB just execute the `roda_demo` app you have installed. A GUI should appear shortly.
+Using MATLAB navigate to the folder `ClusterGUIdemo` and run the command `clustering_gui` in the Command Window. For the users without MATLAB just execute the `clustering_demo` app you have installed. A GUI should appear shortly.
  
 
 ## Further information
