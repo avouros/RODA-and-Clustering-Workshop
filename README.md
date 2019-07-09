@@ -15,7 +15,7 @@
 
 - Navigate to the [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) webpage and download and install the MATLAB Runtime Version **R2019a (9.6)** based on your platform. 
 
-- Navigate to the [releases](https://github.com/RodentDataAnalytics/mwm-ml-gen/releases) tab of this repository and download and install the **RODAdemo** (for the first exercise) and **ClusterGUIdemo** (for the second exercise) based on your platform. 
+- Navigate to the `releases` folder of this repository and download and install the **RODAdemo** (for the first exercise) and **ClusterGUIdemo** (for the second exercise) based on your platform. 
 
 - You should now be able to run both **RODAdemo** and **ClusterGUIdemo** and proceed with the exercises. Keep in mind that the apps might run slower than executing the code using MATLAB.
 
