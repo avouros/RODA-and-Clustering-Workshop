@@ -23,8 +23,6 @@
 
 > - MAC users: default installation folder: `Applications/University of Sheffield/roda_demo/`
 
-> - Linux users: default installation folder: `%ProgramFiles%\University of Sheffield\roda_demo\`
-
 
 ### Hands-on exercise 1
 
