@@ -21,7 +21,7 @@ function [x,y,lb1,lb_out,str] = load_dataset(varargin)
     else
         switch varargin{1}{1}
             case 'Clustering basic benchmark'
-                fn = fullfile(pwd,'datasets','Clustering basic benchmark');
+                fn = fullfile(pwd,'datasets','cbb');
                 set = varargin{1}{2};
                 number = varargin{1}{3};
                 [y,x,~] = load_clustering_basic_dataset(fn,set,number);
