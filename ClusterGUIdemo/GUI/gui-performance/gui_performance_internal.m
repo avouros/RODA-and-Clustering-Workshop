@@ -56,7 +56,7 @@ function gui_performance_internal_OpeningFcn(hObject, eventdata, handles, vararg
     set(handles.mplot_selection,'Visible','off')
     
     % Compute the indexes
-    h = waitbar(0,'Computing internal indexes...','Name','Lodaing');
+    h = waitbar(0,'Computing internal indexes...','Name','Loading');
     dat = get(handles.refresh_plots,'UserData');
     CL_RESULTS = dat{1};
     DATA = dat{2};
@@ -114,6 +114,7 @@ function gui_performance_internal_OpeningFcn(hObject, eventdata, handles, vararg
     
     % Update the GUI
     gui_performance_internal_update(handles);
+    default_gui_options(handles) %dafault gui options
     % Choose default command line output for gui_performance_internal
     handles.output = hObject;
     % Update handles structure
