@@ -12,7 +12,6 @@ function gui_opening(handles)
     % Activate menu items and load
     set(handles.load_more_data,'Enable','on');
     set(handles.button_load,'Enable','on');
-    set(handles.dCBB,'Enable','on');
     set(handles.dBrodinova,'Enable','on');
     set(handles.dYY,'Enable','on');
     set(handles.dGap,'Enable','on');
