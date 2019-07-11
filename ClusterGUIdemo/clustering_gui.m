@@ -46,7 +46,9 @@ end
 
 % --- Executes just before clustering_gui is made visible.
 function clustering_gui_OpeningFcn(hObject, eventdata, handles, varargin)
-    addpath(genpath(pwd)); %add everything to the MATLAB path
+    if ~isdeployed
+        addpath(genpath(pwd)); %add everything to the MATLAB path
+    end
     gui_opening(handles);  %initialize gui
     default_gui_options(handles) %dafault gui options
     % This function has no output args, see OutputFcn.
