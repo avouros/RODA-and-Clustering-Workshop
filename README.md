@@ -13,7 +13,7 @@
 
 ### Instructions for the users without MATLAB
 
-- Navigate to the [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) webpage and download and install the MATLAB Runtime Version **R2019a (9.6)** based on your platform. 
+- The installers will automatically download and install the necessary MATLAB Runtime. To install it manually, navigate to the [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) webpage and download and install the MATLAB Runtime Version **R2019a (9.6)** based on your platform. 
 
 - Navigate to the `releases` folder of this repository and download and install the **RODAdemo** (for the first exercise) and **ClusterGUIdemo** (for the second exercise) based on your platform. 
 
