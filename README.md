@@ -2,9 +2,9 @@
 
 ### Instructions for the exercises
 
-- Clone or download the repository [RODA-and-Clustering-Workshop](https://github.com/avouros/RODA-and-Clustering-Workshop)
+- Clone or download this repository.
 
-- The folder `RODAdemo` contains the files required to run a demo version of RODA for the exercise 1.
+- The folder `RODAdemo` contains the files required to run a demo version of [RODA](https://github.com/RodentDataAnalytics/mwm-ml-gen/wiki) for the exercise 1.
 
 - The folder `ClusterGUIdemo` contains the files required for exercise 2.
 
@@ -38,7 +38,7 @@ Using MATLAB navigate to the folder `ClusterGUIdemo` and run the command `cluste
 
 ### Data
 
-The given dataset is a small sample of the ones used in the recent work of [Damien et al. (2019)](https://www.biorxiv.org/content/10.1101/579508v1.full) (accepted in [Stress: The International Journal on the Biology of Stress](https://www.tandfonline.com/loi/ists20)). It contains Morris Water Maze trajectory data of 30 male Wistar Han rats with different corticosterone reactivity (Low, Inter and High) from the 18th day of the procedure when reversal learning was performed. Each rat was trained on four trials.
+The given dataset is a small sample of the ones used in the recent work of [Damien et al. (2019)](https://www.tandfonline.com/doi/full/10.1080/10253890.2019.1625885). It contains Morris Water Maze trajectory data of 30 male Wistar Han rats with different corticosterone reactivity (Low, Inter and High) from the 18th day of the procedure when reversal learning was performed. Each rat was trained on four trials.
 
 ### RODA software
 
@@ -50,7 +50,7 @@ The demo is created using the RODA version 4.0.3. The demo does not include: Adv
 
 [Vouros, A., Gehring, T. V., Szydlowska, K., Janusz, A., Tu, Z., Croucher, M., ... & Vasilaki, E. (2018). A generalised framework for detailed classification of swimming paths inside the Morris Water Maze. Scientific reports, 8(1), 15089.](https://www.nature.com/articles/s41598-018-33456-1)
 
-[Huzard, D., Vouros, A., Monari, S., Astori, S., Vasilaki, E., & Sandi, C. (2019). Constitutive differences in glucocorticoid responsiveness are related to divergent spatial information processing abilities. bioRxiv, 579508.](https://www.biorxiv.org/content/10.1101/579508v1.full)
+[Huzard, D., Vouros, A., Monari, S., Astori, S., Vasilaki, E., & Sandi, C. (2019). Constitutive differences in glucocorticoid responsiveness are related to divergent spatial information processing abilities. Stress, 1-13.](https://www.tandfonline.com/doi/full/10.1080/10253890.2019.1625885)
 
 [Avgoustinos Vouros, Tiago V. Gehring, Mike Croucher, & Eleni Vasilaki. (2017, December 18). RodentDataAnalytics/mwm-ml-gen: Version 4.0.3-beta (Version v4.0.3). Zenodo. http://doi.org/10.5281/zenodo.1117837](https://zenodo.org/record/1117837)
 
