@@ -1,5 +1,7 @@
 ## Instructions
 
+**⚠️ for the hands-on exercises:** Please note that RODA and the clustering GUI are written in MATLAB and require MATLAB version R2016a or higher in order to run. For users that do not have MATLAB, installers are provided for Windows and MAC. The installers require MATLAB runtime environment which is free but might need some time to be installed. In case you do not have MATLAB and would like to run the tutorial exercises we highly recommend to proceed with the installation of the required files prior to the tutorial (see Instructions for the users without MATLAB below).
+
 ### Instructions for the exercises
 
 - Clone or download this repository.
@@ -13,7 +15,7 @@
 
 ### Instructions for the users without MATLAB
 
-- The installers will automatically download and install the necessary MATLAB Runtime. To install it manually, navigate to the [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) webpage and download and install the MATLAB Runtime Version **R2019a (9.6)** based on your platform. 
+- *The installers will automatically download and install the necessary MATLAB Runtime*. To install it manually, navigate to the [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) webpage and download and install the MATLAB Runtime Version **R2019a (9.6)** based on your platform. 
 
 - Navigate to the `releases` folder of this repository and download and install the **RODAdemo** (for the first exercise) and **ClusterGUIdemo** (for the second exercise) based on your platform. 
 
